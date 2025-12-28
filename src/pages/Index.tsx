@@ -141,7 +141,7 @@ const Index = () => {
                 price: '0.5 TON',
                 rarity: 'Легендарный',
                 color: 'primary',
-                image: 'https://cdn.poehali.dev/files/image.png',
+                image: 'https://cdn.poehali.dev/files/2.jpg',
               },
               {
                 name: 'Неоновый Единорог',
