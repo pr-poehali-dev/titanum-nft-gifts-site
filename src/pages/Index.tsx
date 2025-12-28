@@ -144,11 +144,11 @@ const Index = () => {
                 image: 'https://cdn.poehali.dev/files/2.jpg',
               },
               {
-                name: 'Неоновый Единорог',
+                name: 'Сердечко',
                 price: '0.3 TON',
                 rarity: 'Эпический',
                 color: 'secondary',
-                image: 'https://cdn.poehali.dev/projects/db52ec6e-2c01-410d-bac9-f3c3a40b1e6a/files/4e91f5b4-e1c6-40a1-9431-2949e14bfd85.jpg',
+                image: 'https://cdn.poehali.dev/files/3.jpg',
               },
               {
                 name: 'Цифровая Звезда',
