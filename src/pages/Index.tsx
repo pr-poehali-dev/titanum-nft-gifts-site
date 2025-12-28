@@ -17,10 +17,11 @@ const Index = () => {
       <nav className="fixed top-0 left-0 right-0 z-50 backdrop-blur-lg bg-background/80 border-b border-primary/30 neon-border">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3 animate-fade-in">
-            <div className="w-12 h-12 rounded-xl bg-gradient-gaming glow flex items-center justify-center">
-              <span className="text-2xl font-bold">T</span>
-            </div>
-            <span className="text-2xl font-bold text-gradient">TITANUM</span>
+            <img 
+              src="https://cdn.poehali.dev/files/logoza.ru.png" 
+              alt="Столовая №7" 
+              className="h-12 w-auto"
+            />
           </div>
 
           <div className="hidden md:flex items-center gap-6">
@@ -336,10 +337,11 @@ const Index = () => {
       <footer className="border-t border-primary/30 py-8 bg-card/50 backdrop-blur">
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-3 mb-4">
-            <div className="w-10 h-10 rounded-xl bg-gradient-gaming glow flex items-center justify-center">
-              <span className="text-xl font-bold">T</span>
-            </div>
-            <span className="text-xl font-bold text-gradient">TITANUM</span>
+            <img 
+              src="https://cdn.poehali.dev/files/logoza.ru.png" 
+              alt="Столовая №7" 
+              className="h-10 w-auto"
+            />
           </div>
           <p className="text-muted-foreground mb-4">
             Уникальные NFT-подарки из Telegram
