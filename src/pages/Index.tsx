@@ -137,11 +137,11 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: 'Космический Кристалл',
+                name: 'Мишка',
                 price: '0.5 TON',
                 rarity: 'Легендарный',
                 color: 'primary',
-                image: 'https://cdn.poehali.dev/projects/db52ec6e-2c01-410d-bac9-f3c3a40b1e6a/files/14ddc6a9-a425-434a-8a44-fc6bc3260bc7.jpg',
+                image: 'https://cdn.poehali.dev/files/image.png',
               },
               {
                 name: 'Неоновый Единорог',
