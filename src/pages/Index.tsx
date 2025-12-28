@@ -151,11 +151,11 @@ const Index = () => {
                 image: 'https://cdn.poehali.dev/files/3.jpg',
               },
               {
-                name: 'Цифровая Звезда',
+                name: 'Тортик',
                 price: '0.2 TON',
                 rarity: 'Редкий',
                 color: 'accent',
-                image: 'https://cdn.poehali.dev/projects/db52ec6e-2c01-410d-bac9-f3c3a40b1e6a/files/2ad6baa9-6ef4-4749-a4f3-8f2057d1d36c.jpg',
+                image: 'https://cdn.poehali.dev/files/1.jpg',
               },
             ].map((nft, index) => (
               <Card
